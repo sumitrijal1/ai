@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Recommendation Questionnaire</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .question-group {
+            margin-bottom: 25px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #fafafa;
+        }
+        .question-group h3 {
+            color: #2c3e50;
+            margin-top: 0;
+            margin-bottom: 15px;
+        }
+        .question-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        .question-group select,
+        .question-group input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .radio-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .radio-option {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        .radio-option input[type="radio"] {
+            margin-right: 8px;
+        }
+        .submit-btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 20px;
+        }
+        .submit-btn:hover {
+            background-color: #45a049;
+        }
+        .description {
+            color: #666;
+            font-size: 14px;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Course Recommendation Questionnaire</h1>
+        <p style="text-align: center; color: #666; margin-bottom: 30px;">
+            Please answer the following questions to get personalized course recommendations based on your profile and preferences.
+        </p>
+
+        <form id="recommendationForm">
+            <!-- Age -->
+            <div class="question-group">
+                <h3>1. What is your age?</h3>
+                <label for="age">Enter your age:</label>
+                <input type="number" id="age" name="age" min="16" max="80" required>
+            </div>
+
+            <!-- Education -->
+            <div class="question-group">
+                <h3>2. What is your current education level?</h3>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="highschool" name="education" value="High School" required>
+                        <label for="highschool">High School</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="undergraduate" name="education" value="Undergraduate" required>
+                        <label for="undergraduate">Undergraduate</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="graduate" name="education" value="Graduate" required>
+                        <label for="graduate">Graduate</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="working" name="education" value="Working Professional" required>
+                        <label for="working">Working Professional</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Background -->
+            <div class="question-group">
+                <h3>3. What is your academic/professional background?</h3>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="science" name="background" value="Science" required>
+                        <label for="science">Science</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="arts" name="background" value="Arts" required>
+                        <label for="arts">Arts</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="commerce" name="background" value="Commerce" required>
+                        <label for="commerce">Commerce</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="engineering" name="background" value="Engineering" required>
+                        <label for="engineering">Engineering</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Interest -->
+            <div class="question-group">
+                <h3>4. What is your primary interest area?</h3>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="finance" name="interest" value="Finance" required>
+                        <label for="finance">Finance</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="business" name="interest" value="Business" required>
+                        <label for="business">Business</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="marketing" name="interest" value="Marketing" required>
+                        <label for="marketing">Marketing</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="programming" name="interest" value="Programming" required>
+                        <label for="programming">Programming</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="cybersecurity" name="interest" value="Cybersecurity" required>
+                        <label for="cybersecurity">Cybersecurity</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="cloud" name="interest" value="Cloud" required>
+                        <label for="cloud">Cloud Computing</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Skill Level -->
+            <div class="question-group">
+                <h3>5. What is your current skill level in your area of interest?</h3>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="beginner" name="skillLevel" value="Beginner" required>
+                        <label for="beginner">Beginner</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="intermediate" name="skillLevel" value="Intermediate" required>
+                        <label for="intermediate">Intermediate</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="advanced" name="skillLevel" value="Advanced" required>
+                        <label for="advanced">Advanced</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Learning Style -->
+            <div class="question-group">
+                <h3>6. What is your preferred learning style?</h3>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="reading" name="learningStyle" value="Reading" required>
+                        <label for="reading">Reading/Text-based</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="video" name="learningStyle" value="Video" required>
+                        <label for="video">Video Tutorials</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="practical" name="learningStyle" value="Practical" required>
+                        <label for="practical">Hands-on/Practical</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="project" name="learningStyle" value="Project Based" required>
+                        <label for="project">Project-based Learning</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Study Time -->
+            <div class="question-group">
+                <h3>7. How much time can you dedicate to studying per week?</h3>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="less5" name="studyTime" value="<5" required>
+                        <label for="less5">Less than 5 hours</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="5to10" name="studyTime" value="5-10" required>
+                        <label for="5to10">5-10 hours</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="10to20" name="studyTime" value="10-20" required>
+                        <label for="10to20">10-20 hours</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="more20" name="studyTime" value="20+" required>
+                        <label for="more20">More than 20 hours</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Career Goal -->
+            <div class="question-group">
+                <h3>8. What is your primary career goal?</h3>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="skillupgrade" name="careerGoal" value="Skill Upgrade" required>
+                        <label for="skillupgrade">Skill Upgrade</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="getjob" name="careerGoal" value="Get Job" required>
+                        <label for="getjob">Get a Job</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="startbusiness" name="careerGoal" value="Start Business" required>
+                        <label for="startbusiness">Start a Business</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="freelancing" name="careerGoal" value="Freelancing" required>
+                        <label for="freelancing">Freelancing</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="higherstudies" name="careerGoal" value="Higher Studies" required>
+                        <label for="higherstudies">Higher Studies</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Budget -->
+            <div class="question-group">
+                <h3>9. What is your budget range for the course?</h3>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="free" name="budget" value="Free" required>
+                        <label for="free">Free</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="low" name="budget" value="Low" required>
+                        <label for="low">Low ($1-100)</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="medium" name="budget" value="Medium" required>
+                        <label for="medium">Medium ($100-500)</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="premium" name="budget" value="Premium" required>
+                        <label for="premium">Premium ($500+)</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Duration -->
+            <div class="question-group">
+                <h3>10. What is your preferred course duration?</h3>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="1to3" name="duration" value="1-3 months" required>
+                        <label for="1to3">1-3 months</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="3to6" name="duration" value="3-6 months" required>
+                        <label for="3to6">3-6 months</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="6plus" name="duration" value="6+ months" required>
+                        <label for="6plus">6+ months</label>
+                    </div>
+                </div>
+            </div>
+
+            <button type="submit" class="submit-btn">Get Course Recommendation</button>
+        </form>
+
+        <div id="result" style="display: none; margin-top: 30px; padding: 20px; background-color: #e8f5e8; border: 1px solid #4CAF50; border-radius: 5px;">
+            <h3>Recommended Course:</h3>
+            <p id="courseResult"></p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('recommendationForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            // Show loading message
+            document.getElementById('courseResult').textContent = 'Getting your recommendation...';
+            document.getElementById('result').style.display = 'block';
+
+            // Collect form data
+            const formData = new FormData(this);
+            const data = {};
+            for (let [key, value] of formData.entries()) {
+                data[key] = value;
+            }
+
+            try {
+                // Send data to Flask API
+                const response = await fetch('http://localhost:5000/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(data)
+                });
+
+                const result = await response.json();
+
+                if (result.success) {
+                    document.getElementById('courseResult').textContent = result.recommended_course;
+                } else {
+                    document.getElementById('courseResult').textContent = 'Error: ' + result.error;
+                }
+            } catch (error) {
+                document.getElementById('courseResult').textContent = 'Error connecting to server. Make sure the Flask app is running.';
+                console.error('Error:', error);
+            }
+
+            // Scroll to result
+            document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
+        });
+    </script>
+</body>
+</html>

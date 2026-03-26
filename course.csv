@@ -1,0 +1,501 @@
+Age,Education,Background,Interest,SkillLevel,LearningStyle,StudyTime,CareerGoal,Budget,Duration,RecommendedCourse
+21,Working Professional,Science,Finance,Advanced,Reading,20+,Higher Studies,Free,6+ months,Finance & Investment
+35,High School,Arts,Business,Intermediate,Project Based,10-20,Start Business,Medium,6+ months,Data Science
+40,High School,Arts,Marketing,Beginner,Video,20+,Get Job,Free,6+ months,Python Programming
+17,Undergraduate,Commerce,Finance,Intermediate,Video,<5,Skill Upgrade,Free,3-6 months,Graphic Design
+24,High School,Engineering,Programming,Advanced,Practical,5-10,Skill Upgrade,Free,3-6 months,Machine Learning
+33,High School,Engineering,Cybersecurity,Beginner,Project Based,<5,Freelancing,Low,3-6 months,Digital Marketing
+23,Graduate,Commerce,Cloud,Beginner,Video,5-10,Start Business,Premium,3-6 months,Digital Marketing
+30,Undergraduate,Commerce,Cloud,Advanced,Reading,<5,Get Job,Low,3-6 months,Digital Marketing
+39,Graduate,Engineering,Programming,Beginner,Practical,<5,Higher Studies,Low,3-6 months,Data Science
+44,High School,Management,Cloud,Intermediate,Practical,10-20,Get Job,Medium,3-6 months,Mobile App Development
+35,Undergraduate,Arts,Design,Advanced,Project Based,<5,Skill Upgrade,Free,1-3 months,Graphic Design
+30,Working Professional,Engineering,Business,Advanced,Reading,10-20,Start Business,Premium,1-3 months,Machine Learning
+27,Working Professional,Engineering,Business,Intermediate,Project Based,<5,Start Business,Premium,3-6 months,Web Development
+34,Graduate,Science,AI/ML,Advanced,Video,10-20,Higher Studies,Free,1-3 months,Digital Marketing
+19,Graduate,IT,AI/ML,Beginner,Reading,<5,Start Business,Medium,1-3 months,Python Programming
+44,Working Professional,Arts,Business,Beginner,Video,10-20,Start Business,Low,3-6 months,Mobile App Development
+22,High School,Arts,Design,Beginner,Reading,20+,Higher Studies,Premium,6+ months,Business Analytics
+26,High School,Commerce,Cloud,Advanced,Project Based,<5,Freelancing,Low,6+ months,Cloud Computing
+25,High School,Management,Marketing,Beginner,Video,10-20,Freelancing,Free,3-6 months,Cloud Computing
+32,High School,Engineering,AI/ML,Beginner,Practical,5-10,Get Job,Medium,1-3 months,Cybersecurity
+40,High School,Arts,Cybersecurity,Intermediate,Practical,5-10,Get Job,Medium,1-3 months,Web Development
+27,High School,Arts,AI/ML,Advanced,Project Based,10-20,Get Job,Premium,6+ months,Cybersecurity
+30,High School,Arts,Cloud,Beginner,Video,<5,Higher Studies,Medium,6+ months,Machine Learning
+37,Graduate,Engineering,Cybersecurity,Intermediate,Reading,<5,Skill Upgrade,Medium,6+ months,Data Science
+28,Working Professional,Arts,AI/ML,Intermediate,Video,20+,Freelancing,Premium,1-3 months,Web Development
+30,Undergraduate,Commerce,Marketing,Advanced,Reading,10-20,Start Business,Free,1-3 months,Cloud Computing
+35,Working Professional,IT,Marketing,Intermediate,Reading,20+,Higher Studies,Medium,3-6 months,Cybersecurity
+39,Undergraduate,IT,Marketing,Beginner,Reading,<5,Freelancing,Free,6+ months,Web Development
+19,High School,Engineering,Finance,Intermediate,Practical,20+,Get Job,Medium,6+ months,Cloud Computing
+34,High School,Engineering,Programming,Intermediate,Reading,10-20,Skill Upgrade,Medium,1-3 months,Graphic Design
+26,High School,Commerce,Cloud,Advanced,Reading,<5,Higher Studies,Free,3-6 months,Cloud Computing
+41,Working Professional,Engineering,Marketing,Beginner,Project Based,<5,Freelancing,Medium,3-6 months,Python Programming
+19,Working Professional,Engineering,Cloud,Advanced,Project Based,<5,Higher Studies,Free,1-3 months,Data Science
+26,Graduate,Management,Programming,Beginner,Video,5-10,Higher Studies,Premium,3-6 months,Mobile App Development
+32,Undergraduate,Arts,Cloud,Beginner,Video,<5,Higher Studies,Premium,1-3 months,Cloud Computing
+43,Undergraduate,Science,Business,Beginner,Project Based,20+,Higher Studies,Free,1-3 months,Machine Learning
+39,Undergraduate,Management,Cloud,Intermediate,Practical,10-20,Get Job,Low,6+ months,Mobile App Development
+41,Undergraduate,Science,Cloud,Advanced,Project Based,10-20,Start Business,Free,6+ months,Finance & Investment
+26,Graduate,IT,Design,Advanced,Practical,10-20,Start Business,Premium,6+ months,Cybersecurity
+33,High School,Engineering,Design,Advanced,Video,10-20,Get Job,Low,6+ months,Cybersecurity
+36,Undergraduate,Management,Programming,Intermediate,Video,10-20,Get Job,Free,1-3 months,Cybersecurity
+41,High School,Commerce,Marketing,Beginner,Project Based,10-20,Get Job,Medium,6+ months,Graphic Design
+23,Graduate,Arts,Programming,Advanced,Practical,20+,Skill Upgrade,Premium,6+ months,Data Science
+18,Graduate,Arts,Cybersecurity,Beginner,Project Based,20+,Higher Studies,Medium,6+ months,Data Science
+19,Undergraduate,Engineering,Business,Beginner,Reading,10-20,Higher Studies,Medium,6+ months,Data Science
+27,Working Professional,IT,Finance,Intermediate,Video,10-20,Start Business,Low,6+ months,Python Programming
+28,High School,Commerce,Marketing,Advanced,Reading,10-20,Get Job,Medium,1-3 months,Cloud Computing
+43,Undergraduate,IT,Design,Beginner,Practical,10-20,Higher Studies,Premium,3-6 months,Graphic Design
+25,Graduate,Engineering,Cloud,Beginner,Reading,<5,Higher Studies,Free,1-3 months,UI/UX Design
+37,High School,Management,Cybersecurity,Intermediate,Practical,20+,Start Business,Medium,6+ months,Cybersecurity
+42,Graduate,IT,Finance,Advanced,Reading,20+,Freelancing,Medium,1-3 months,Mobile App Development
+42,Working Professional,Engineering,Business,Advanced,Video,10-20,Skill Upgrade,Premium,6+ months,Graphic Design
+35,Working Professional,Science,Design,Beginner,Video,20+,Start Business,Premium,6+ months,Graphic Design
+35,High School,Science,Marketing,Intermediate,Reading,10-20,Higher Studies,Low,3-6 months,Business Analytics
+20,Working Professional,IT,Programming,Beginner,Practical,<5,Start Business,Free,6+ months,Finance & Investment
+36,Graduate,Engineering,Programming,Beginner,Reading,<5,Skill Upgrade,Free,1-3 months,Mobile App Development
+42,High School,Engineering,Marketing,Intermediate,Practical,20+,Skill Upgrade,Free,3-6 months,Python Programming
+19,Undergraduate,Commerce,Marketing,Beginner,Project Based,10-20,Skill Upgrade,Low,6+ months,Python Programming
+25,Undergraduate,Management,AI/ML,Beginner,Practical,20+,Start Business,Low,6+ months,Cybersecurity
+30,Working Professional,Commerce,Cloud,Advanced,Video,5-10,Start Business,Premium,6+ months,Python Programming
+37,Working Professional,Arts,Programming,Advanced,Project Based,10-20,Higher Studies,Medium,3-6 months,Finance & Investment
+21,High School,Arts,Design,Intermediate,Video,<5,Get Job,Low,3-6 months,Mobile App Development
+33,Graduate,Science,Cybersecurity,Intermediate,Reading,10-20,Get Job,Low,1-3 months,Mobile App Development
+38,Undergraduate,IT,Cybersecurity,Beginner,Video,5-10,Start Business,Medium,6+ months,Digital Marketing
+23,Graduate,Science,Design,Intermediate,Practical,5-10,Higher Studies,Medium,6+ months,Machine Learning
+25,Graduate,Management,Business,Advanced,Project Based,20+,Higher Studies,Medium,1-3 months,Machine Learning
+28,High School,IT,Finance,Advanced,Video,<5,Higher Studies,Low,6+ months,Machine Learning
+35,High School,Arts,Marketing,Advanced,Reading,<5,Freelancing,Free,3-6 months,Machine Learning
+19,Undergraduate,Commerce,Business,Advanced,Practical,20+,Higher Studies,Free,3-6 months,UI/UX Design
+17,Graduate,Arts,Finance,Intermediate,Video,5-10,Freelancing,Free,1-3 months,Machine Learning
+32,High School,Arts,AI/ML,Beginner,Practical,<5,Higher Studies,Medium,1-3 months,Mobile App Development
+17,Undergraduate,Science,Business,Beginner,Reading,20+,Get Job,Low,6+ months,Business Analytics
+21,High School,IT,Programming,Beginner,Practical,5-10,Start Business,Medium,3-6 months,Python Programming
+40,Working Professional,Management,Finance,Advanced,Video,5-10,Start Business,Medium,3-6 months,Graphic Design
+43,Working Professional,Science,AI/ML,Beginner,Project Based,10-20,Higher Studies,Medium,1-3 months,Mobile App Development
+28,Working Professional,Arts,Finance,Beginner,Video,5-10,Skill Upgrade,Low,6+ months,Python Programming
+42,High School,Science,Cloud,Beginner,Reading,<5,Freelancing,Premium,6+ months,Finance & Investment
+19,High School,Commerce,AI/ML,Intermediate,Project Based,10-20,Freelancing,Low,6+ months,Python Programming
+38,Undergraduate,Commerce,Finance,Advanced,Project Based,5-10,Get Job,Premium,1-3 months,Digital Marketing
+20,Graduate,Science,Business,Intermediate,Project Based,<5,Skill Upgrade,Medium,6+ months,Cloud Computing
+19,High School,IT,Cloud,Intermediate,Video,20+,Higher Studies,Free,1-3 months,Python Programming
+25,Working Professional,Management,Finance,Advanced,Video,<5,Start Business,Low,3-6 months,Digital Marketing
+44,High School,Science,Design,Beginner,Video,<5,Higher Studies,Medium,6+ months,Business Analytics
+22,High School,Commerce,Design,Intermediate,Reading,20+,Start Business,Free,1-3 months,UI/UX Design
+19,Undergraduate,Arts,AI/ML,Beginner,Practical,<5,Higher Studies,Free,6+ months,UI/UX Design
+34,Working Professional,IT,Business,Beginner,Video,10-20,Get Job,Free,1-3 months,Digital Marketing
+40,Undergraduate,Commerce,AI/ML,Beginner,Project Based,<5,Freelancing,Premium,6+ months,Cybersecurity
+44,High School,IT,Marketing,Intermediate,Project Based,10-20,Start Business,Low,3-6 months,Graphic Design
+30,Graduate,Science,Design,Beginner,Reading,20+,Higher Studies,Medium,1-3 months,Web Development
+21,Working Professional,Commerce,AI/ML,Intermediate,Video,5-10,Higher Studies,Low,6+ months,Data Science
+20,High School,IT,Finance,Advanced,Video,10-20,Get Job,Free,1-3 months,Digital Marketing
+17,Graduate,Arts,Cloud,Advanced,Video,10-20,Freelancing,Free,3-6 months,Finance & Investment
+43,Working Professional,IT,AI/ML,Advanced,Video,<5,Skill Upgrade,Low,6+ months,Finance & Investment
+38,High School,IT,Design,Beginner,Practical,20+,Higher Studies,Medium,3-6 months,Data Science
+41,Working Professional,Engineering,Design,Intermediate,Practical,20+,Start Business,Medium,1-3 months,Web Development
+23,High School,Engineering,Programming,Intermediate,Practical,20+,Higher Studies,Free,6+ months,Mobile App Development
+26,High School,Commerce,Programming,Advanced,Video,5-10,Higher Studies,Premium,1-3 months,Python Programming
+22,High School,Engineering,Finance,Beginner,Video,10-20,Start Business,Low,1-3 months,Cybersecurity
+30,Undergraduate,Arts,Design,Beginner,Video,10-20,Start Business,Free,6+ months,Digital Marketing
+26,Working Professional,Science,Finance,Advanced,Video,<5,Freelancing,Premium,3-6 months,UI/UX Design
+39,High School,Commerce,Finance,Beginner,Practical,20+,Skill Upgrade,Low,1-3 months,Python Programming
+31,Graduate,IT,Programming,Intermediate,Project Based,5-10,Freelancing,Free,3-6 months,UI/UX Design
+37,High School,Science,AI/ML,Advanced,Reading,10-20,Get Job,Premium,3-6 months,Graphic Design
+17,High School,Engineering,Marketing,Beginner,Project Based,20+,Freelancing,Medium,3-6 months,Mobile App Development
+26,High School,IT,Business,Intermediate,Reading,<5,Higher Studies,Premium,3-6 months,Cybersecurity
+36,High School,Engineering,Cybersecurity,Advanced,Reading,<5,Start Business,Low,6+ months,UI/UX Design
+28,High School,IT,Cybersecurity,Advanced,Practical,10-20,Higher Studies,Medium,3-6 months,Data Science
+44,Undergraduate,Science,Cybersecurity,Advanced,Video,10-20,Freelancing,Medium,1-3 months,Cloud Computing
+39,Undergraduate,Arts,Programming,Advanced,Project Based,20+,Higher Studies,Free,6+ months,Data Science
+30,Graduate,Management,Finance,Beginner,Practical,5-10,Start Business,Free,1-3 months,Data Science
+39,High School,Commerce,Marketing,Intermediate,Practical,20+,Higher Studies,Low,3-6 months,Machine Learning
+29,High School,Engineering,Business,Advanced,Project Based,20+,Get Job,Free,3-6 months,Mobile App Development
+20,Undergraduate,Management,Programming,Advanced,Video,<5,Start Business,Medium,6+ months,Mobile App Development
+42,Graduate,Commerce,Cloud,Advanced,Video,5-10,Skill Upgrade,Free,3-6 months,Python Programming
+27,Working Professional,Management,AI/ML,Intermediate,Reading,20+,Freelancing,Low,1-3 months,Digital Marketing
+39,Graduate,Engineering,Cybersecurity,Advanced,Project Based,5-10,Get Job,Medium,1-3 months,Finance & Investment
+30,Undergraduate,Engineering,Cloud,Advanced,Practical,10-20,Freelancing,Low,6+ months,Python Programming
+23,Working Professional,Management,Marketing,Beginner,Project Based,10-20,Freelancing,Premium,1-3 months,Machine Learning
+17,High School,Commerce,Marketing,Intermediate,Video,5-10,Get Job,Free,1-3 months,Python Programming
+34,Working Professional,IT,Programming,Intermediate,Video,20+,Get Job,Medium,6+ months,Machine Learning
+18,High School,IT,Business,Advanced,Reading,5-10,Higher Studies,Low,1-3 months,Machine Learning
+24,Undergraduate,Arts,Cybersecurity,Intermediate,Video,20+,Start Business,Premium,1-3 months,Mobile App Development
+40,Undergraduate,IT,Design,Intermediate,Reading,5-10,Higher Studies,Medium,3-6 months,Cybersecurity
+35,Working Professional,Commerce,AI/ML,Intermediate,Project Based,5-10,Freelancing,Low,3-6 months,Data Science
+30,Working Professional,IT,Cloud,Beginner,Project Based,10-20,Start Business,Free,1-3 months,UI/UX Design
+28,Working Professional,Engineering,Finance,Advanced,Project Based,10-20,Higher Studies,Low,1-3 months,Cloud Computing
+42,Undergraduate,Commerce,Cloud,Advanced,Project Based,20+,Skill Upgrade,Free,3-6 months,Python Programming
+28,High School,Science,Cloud,Advanced,Project Based,20+,Start Business,Free,6+ months,Web Development
+35,High School,Commerce,Finance,Beginner,Project Based,<5,Get Job,Medium,1-3 months,Data Science
+28,Working Professional,IT,Business,Advanced,Practical,<5,Get Job,Free,6+ months,Graphic Design
+27,Graduate,Arts,Design,Intermediate,Practical,20+,Skill Upgrade,Medium,3-6 months,Graphic Design
+28,High School,IT,Finance,Advanced,Project Based,<5,Higher Studies,Low,1-3 months,Business Analytics
+33,Working Professional,Management,AI/ML,Beginner,Practical,5-10,Freelancing,Medium,3-6 months,Graphic Design
+22,Undergraduate,IT,Business,Advanced,Video,<5,Start Business,Medium,1-3 months,Cybersecurity
+19,Working Professional,Science,Programming,Beginner,Reading,5-10,Get Job,Low,3-6 months,Cloud Computing
+36,Undergraduate,Management,Cloud,Beginner,Project Based,<5,Skill Upgrade,Free,3-6 months,Finance & Investment
+19,Working Professional,Management,Design,Intermediate,Practical,5-10,Freelancing,Low,3-6 months,Digital Marketing
+18,Graduate,Management,Business,Intermediate,Project Based,20+,Skill Upgrade,Free,1-3 months,Digital Marketing
+38,Undergraduate,Commerce,Cybersecurity,Intermediate,Practical,5-10,Freelancing,Premium,6+ months,UI/UX Design
+20,Working Professional,Science,Programming,Advanced,Reading,5-10,Get Job,Free,3-6 months,Finance & Investment
+28,Undergraduate,Arts,Programming,Advanced,Video,20+,Skill Upgrade,Premium,1-3 months,Digital Marketing
+29,Graduate,Commerce,Cybersecurity,Intermediate,Video,<5,Higher Studies,Medium,6+ months,Web Development
+37,Working Professional,Commerce,Finance,Intermediate,Project Based,10-20,Higher Studies,Medium,1-3 months,Web Development
+22,Undergraduate,Arts,Business,Beginner,Project Based,10-20,Freelancing,Medium,1-3 months,Graphic Design
+35,Undergraduate,IT,Marketing,Beginner,Practical,5-10,Get Job,Free,3-6 months,Graphic Design
+43,High School,Engineering,Marketing,Intermediate,Project Based,<5,Freelancing,Free,6+ months,Business Analytics
+27,High School,Arts,Cloud,Advanced,Video,5-10,Get Job,Low,1-3 months,Web Development
+31,Working Professional,Commerce,Programming,Beginner,Reading,10-20,Higher Studies,Low,3-6 months,Machine Learning
+23,Working Professional,Science,Finance,Beginner,Project Based,<5,Higher Studies,Medium,1-3 months,Mobile App Development
+34,High School,Commerce,Finance,Beginner,Project Based,10-20,Skill Upgrade,Medium,3-6 months,Business Analytics
+22,Working Professional,Commerce,AI/ML,Advanced,Reading,5-10,Start Business,Premium,6+ months,Cloud Computing
+36,Working Professional,IT,Marketing,Advanced,Video,5-10,Higher Studies,Premium,3-6 months,Business Analytics
+36,Undergraduate,Arts,Cybersecurity,Beginner,Project Based,20+,Get Job,Free,6+ months,Graphic Design
+44,Working Professional,Engineering,Business,Beginner,Reading,<5,Skill Upgrade,Low,1-3 months,UI/UX Design
+39,Working Professional,IT,Cybersecurity,Intermediate,Practical,5-10,Get Job,Premium,6+ months,Python Programming
+32,Working Professional,IT,Programming,Intermediate,Reading,20+,Higher Studies,Free,6+ months,Cloud Computing
+23,Undergraduate,Arts,Design,Advanced,Video,20+,Get Job,Premium,1-3 months,Machine Learning
+35,Working Professional,Science,Finance,Beginner,Video,10-20,Get Job,Low,1-3 months,Python Programming
+36,Undergraduate,IT,Cybersecurity,Advanced,Reading,<5,Freelancing,Free,3-6 months,Cybersecurity
+28,Undergraduate,Science,Programming,Advanced,Reading,5-10,Freelancing,Premium,6+ months,Graphic Design
+30,High School,Management,Cloud,Beginner,Practical,<5,Start Business,Low,3-6 months,Data Science
+23,Working Professional,Science,Programming,Beginner,Practical,10-20,Higher Studies,Premium,1-3 months,Graphic Design
+40,Undergraduate,Management,Finance,Advanced,Practical,20+,Skill Upgrade,Premium,3-6 months,Web Development
+42,Graduate,Commerce,Marketing,Advanced,Project Based,10-20,Start Business,Free,6+ months,Web Development
+21,Working Professional,Science,Programming,Advanced,Video,5-10,Skill Upgrade,Premium,1-3 months,UI/UX Design
+23,Working Professional,Management,Cybersecurity,Intermediate,Project Based,<5,Higher Studies,Free,6+ months,Python Programming
+26,Graduate,Commerce,Finance,Intermediate,Project Based,<5,Start Business,Free,3-6 months,Cloud Computing
+27,High School,Management,Programming,Beginner,Project Based,20+,Skill Upgrade,Premium,3-6 months,Data Science
+23,Graduate,Management,Marketing,Beginner,Project Based,20+,Freelancing,Free,1-3 months,Digital Marketing
+31,Undergraduate,Science,Cloud,Advanced,Practical,20+,Freelancing,Medium,1-3 months,Machine Learning
+35,Undergraduate,Science,Cloud,Beginner,Practical,20+,Get Job,Free,3-6 months,Machine Learning
+21,Working Professional,Arts,Finance,Beginner,Video,<5,Higher Studies,Medium,6+ months,Cloud Computing
+41,Graduate,Management,Marketing,Advanced,Reading,5-10,Start Business,Medium,6+ months,Data Science
+19,High School,IT,Marketing,Advanced,Reading,10-20,Higher Studies,Premium,1-3 months,Cloud Computing
+26,Working Professional,Commerce,Design,Beginner,Project Based,10-20,Start Business,Premium,3-6 months,Graphic Design
+35,Undergraduate,Engineering,Business,Beginner,Practical,5-10,Higher Studies,Free,1-3 months,Web Development
+44,Undergraduate,Engineering,AI/ML,Advanced,Video,20+,Higher Studies,Medium,1-3 months,Cloud Computing
+28,Undergraduate,Science,Cybersecurity,Intermediate,Video,<5,Start Business,Medium,1-3 months,Web Development
+40,High School,Arts,Finance,Beginner,Video,10-20,Higher Studies,Medium,6+ months,Digital Marketing
+18,High School,Engineering,Marketing,Advanced,Project Based,10-20,Start Business,Medium,1-3 months,Python Programming
+44,Undergraduate,Management,Programming,Beginner,Project Based,<5,Start Business,Low,3-6 months,Business Analytics
+36,Graduate,Arts,Design,Advanced,Video,5-10,Start Business,Low,6+ months,Mobile App Development
+35,Graduate,Management,Business,Intermediate,Video,20+,Skill Upgrade,Low,6+ months,Machine Learning
+30,High School,Arts,AI/ML,Advanced,Reading,<5,Higher Studies,Premium,6+ months,Mobile App Development
+21,Graduate,Arts,Cybersecurity,Advanced,Project Based,5-10,Start Business,Low,3-6 months,Business Analytics
+21,Working Professional,Engineering,Business,Beginner,Practical,20+,Freelancing,Medium,3-6 months,Digital Marketing
+20,Working Professional,Commerce,Finance,Intermediate,Practical,10-20,Get Job,Premium,1-3 months,Machine Learning
+26,Undergraduate,Commerce,Cloud,Advanced,Practical,5-10,Freelancing,Medium,6+ months,Python Programming
+25,High School,Science,Business,Advanced,Reading,10-20,Get Job,Low,6+ months,Digital Marketing
+27,High School,Commerce,Design,Beginner,Project Based,5-10,Skill Upgrade,Medium,6+ months,Mobile App Development
+17,Graduate,Management,Design,Beginner,Project Based,5-10,Start Business,Premium,3-6 months,Machine Learning
+23,Working Professional,Arts,Programming,Beginner,Reading,<5,Freelancing,Premium,1-3 months,Python Programming
+27,Working Professional,Management,Business,Beginner,Project Based,5-10,Freelancing,Premium,1-3 months,Mobile App Development
+18,Graduate,IT,Programming,Intermediate,Video,10-20,Skill Upgrade,Premium,1-3 months,Mobile App Development
+35,Undergraduate,Arts,Programming,Advanced,Video,20+,Freelancing,Free,3-6 months,Cybersecurity
+33,Undergraduate,IT,Design,Intermediate,Reading,<5,Start Business,Premium,6+ months,Python Programming
+39,Working Professional,Arts,Marketing,Beginner,Video,5-10,Get Job,Free,3-6 months,Finance & Investment
+35,High School,Engineering,Programming,Advanced,Reading,<5,Higher Studies,Low,3-6 months,UI/UX Design
+23,Graduate,Management,Cloud,Advanced,Reading,20+,Start Business,Medium,3-6 months,Cybersecurity
+32,Undergraduate,Science,Programming,Intermediate,Project Based,10-20,Higher Studies,Premium,3-6 months,Machine Learning
+27,Graduate,Arts,Marketing,Advanced,Video,<5,Higher Studies,Low,3-6 months,Business Analytics
+30,Undergraduate,Management,Finance,Intermediate,Video,<5,Start Business,Medium,1-3 months,Data Science
+26,Undergraduate,IT,Cloud,Intermediate,Video,20+,Skill Upgrade,Low,3-6 months,Finance & Investment
+32,Graduate,Arts,AI/ML,Beginner,Video,20+,Higher Studies,Premium,3-6 months,Digital Marketing
+27,Undergraduate,IT,Cloud,Intermediate,Practical,5-10,Skill Upgrade,Premium,6+ months,Python Programming
+21,Graduate,IT,Business,Intermediate,Reading,10-20,Higher Studies,Premium,3-6 months,Mobile App Development
+27,Working Professional,IT,Design,Beginner,Project Based,20+,Freelancing,Premium,3-6 months,Web Development
+44,Graduate,Arts,Marketing,Beginner,Practical,<5,Skill Upgrade,Medium,1-3 months,Cybersecurity
+21,Working Professional,Commerce,Cybersecurity,Beginner,Practical,20+,Freelancing,Premium,3-6 months,Machine Learning
+36,High School,Management,Cloud,Advanced,Video,20+,Higher Studies,Premium,3-6 months,Machine Learning
+25,High School,Science,Finance,Beginner,Project Based,20+,Higher Studies,Medium,1-3 months,Cybersecurity
+23,Undergraduate,Management,AI/ML,Beginner,Practical,5-10,Higher Studies,Medium,6+ months,Mobile App Development
+30,Graduate,Management,Marketing,Intermediate,Reading,<5,Get Job,Free,1-3 months,Digital Marketing
+23,Undergraduate,Science,Design,Beginner,Practical,20+,Skill Upgrade,Low,6+ months,Graphic Design
+43,Graduate,Science,Cybersecurity,Intermediate,Project Based,5-10,Freelancing,Free,3-6 months,Finance & Investment
+20,Graduate,Science,Business,Advanced,Practical,20+,Start Business,Premium,6+ months,Mobile App Development
+25,Undergraduate,Science,Cloud,Intermediate,Practical,5-10,Higher Studies,Medium,6+ months,UI/UX Design
+40,Working Professional,IT,Business,Intermediate,Video,20+,Start Business,Medium,6+ months,UI/UX Design
+29,Undergraduate,Management,Cloud,Advanced,Reading,20+,Start Business,Premium,6+ months,Web Development
+17,Undergraduate,Engineering,Cybersecurity,Intermediate,Project Based,10-20,Get Job,Free,1-3 months,Cloud Computing
+37,Working Professional,Engineering,Programming,Intermediate,Video,5-10,Skill Upgrade,Low,3-6 months,Web Development
+44,High School,Management,Marketing,Intermediate,Project Based,10-20,Freelancing,Premium,6+ months,Python Programming
+37,Graduate,Arts,Marketing,Intermediate,Project Based,<5,Start Business,Free,3-6 months,Digital Marketing
+29,Working Professional,Management,Programming,Beginner,Project Based,10-20,Start Business,Free,6+ months,UI/UX Design
+44,Graduate,Commerce,Cybersecurity,Advanced,Project Based,10-20,Skill Upgrade,Free,6+ months,Web Development
+40,Working Professional,Science,Programming,Intermediate,Project Based,20+,Skill Upgrade,Free,1-3 months,Finance & Investment
+27,High School,Management,Cloud,Advanced,Practical,<5,Get Job,Premium,3-6 months,Business Analytics
+31,Undergraduate,Engineering,Finance,Intermediate,Project Based,10-20,Start Business,Premium,3-6 months,Python Programming
+30,Undergraduate,Arts,Cybersecurity,Intermediate,Video,20+,Higher Studies,Medium,1-3 months,Cloud Computing
+33,Graduate,Engineering,Programming,Intermediate,Video,20+,Higher Studies,Premium,1-3 months,Data Science
+33,Graduate,Management,Cloud,Beginner,Practical,5-10,Higher Studies,Premium,3-6 months,Graphic Design
+43,Graduate,IT,Design,Beginner,Practical,<5,Skill Upgrade,Free,3-6 months,Cybersecurity
+40,High School,Science,Finance,Intermediate,Video,<5,Higher Studies,Free,1-3 months,Cybersecurity
+27,Working Professional,Science,Finance,Beginner,Project Based,5-10,Freelancing,Low,1-3 months,Digital Marketing
+38,Undergraduate,Management,Programming,Advanced,Reading,10-20,Freelancing,Medium,6+ months,Cybersecurity
+27,High School,Arts,Business,Intermediate,Reading,10-20,Higher Studies,Free,6+ months,Web Development
+18,High School,Science,Marketing,Intermediate,Video,20+,Start Business,Premium,1-3 months,Digital Marketing
+30,Graduate,Arts,Programming,Intermediate,Practical,10-20,Start Business,Free,3-6 months,Cloud Computing
+25,Working Professional,Engineering,Cybersecurity,Advanced,Practical,10-20,Higher Studies,Medium,3-6 months,Python Programming
+24,Working Professional,Science,Finance,Intermediate,Practical,5-10,Skill Upgrade,Premium,6+ months,Web Development
+25,Graduate,Arts,Design,Beginner,Reading,<5,Start Business,Premium,3-6 months,Cloud Computing
+36,Working Professional,Engineering,AI/ML,Advanced,Video,20+,Skill Upgrade,Free,6+ months,Machine Learning
+41,Undergraduate,IT,Cloud,Intermediate,Video,10-20,Skill Upgrade,Low,3-6 months,Mobile App Development
+19,Graduate,Management,Marketing,Intermediate,Practical,10-20,Freelancing,Low,6+ months,UI/UX Design
+23,High School,Commerce,Programming,Intermediate,Practical,5-10,Freelancing,Premium,3-6 months,Machine Learning
+31,Working Professional,Science,Programming,Beginner,Reading,10-20,Get Job,Low,1-3 months,Cybersecurity
+32,Working Professional,Management,Finance,Advanced,Reading,5-10,Higher Studies,Medium,1-3 months,Finance & Investment
+41,Graduate,Management,AI/ML,Intermediate,Practical,5-10,Freelancing,Medium,1-3 months,Python Programming
+25,Working Professional,Arts,Marketing,Advanced,Project Based,20+,Start Business,Low,1-3 months,Digital Marketing
+41,Undergraduate,Commerce,Programming,Advanced,Project Based,10-20,Start Business,Free,1-3 months,Cybersecurity
+17,Undergraduate,Science,Programming,Intermediate,Project Based,5-10,Start Business,Low,1-3 months,Finance & Investment
+25,Undergraduate,Management,Finance,Advanced,Project Based,20+,Freelancing,Low,3-6 months,Graphic Design
+23,Undergraduate,IT,Business,Advanced,Practical,5-10,Get Job,Free,3-6 months,Business Analytics
+35,High School,Science,Finance,Intermediate,Video,<5,Get Job,Low,6+ months,Machine Learning
+29,High School,Science,Finance,Beginner,Reading,<5,Higher Studies,Premium,6+ months,Web Development
+38,Working Professional,Science,Cloud,Advanced,Reading,10-20,Get Job,Low,6+ months,Machine Learning
+36,Undergraduate,Management,Cloud,Advanced,Video,10-20,Higher Studies,Medium,3-6 months,UI/UX Design
+32,High School,Engineering,Design,Intermediate,Project Based,5-10,Freelancing,Medium,6+ months,Machine Learning
+29,High School,Science,Business,Beginner,Project Based,20+,Freelancing,Premium,6+ months,Python Programming
+36,Graduate,Management,Marketing,Intermediate,Reading,20+,Freelancing,Low,6+ months,Web Development
+36,High School,Engineering,Business,Beginner,Practical,20+,Higher Studies,Premium,6+ months,Graphic Design
+34,Working Professional,IT,AI/ML,Advanced,Project Based,20+,Get Job,Premium,1-3 months,Business Analytics
+21,Working Professional,IT,Cybersecurity,Beginner,Video,20+,Start Business,Low,6+ months,Graphic Design
+25,Graduate,Engineering,AI/ML,Intermediate,Practical,20+,Higher Studies,Premium,1-3 months,Cloud Computing
+29,Undergraduate,Commerce,Marketing,Intermediate,Project Based,10-20,Skill Upgrade,Free,3-6 months,Finance & Investment
+43,Undergraduate,Arts,Business,Intermediate,Project Based,20+,Higher Studies,Low,6+ months,Business Analytics
+23,Working Professional,IT,Cloud,Beginner,Practical,10-20,Freelancing,Low,1-3 months,Business Analytics
+41,Working Professional,Engineering,Programming,Advanced,Reading,5-10,Higher Studies,Premium,3-6 months,Graphic Design
+35,Undergraduate,Commerce,Cybersecurity,Intermediate,Reading,<5,Get Job,Free,6+ months,Mobile App Development
+20,Undergraduate,Management,Design,Advanced,Video,20+,Freelancing,Premium,1-3 months,UI/UX Design
+43,High School,Arts,Programming,Beginner,Reading,20+,Get Job,Medium,3-6 months,Mobile App Development
+24,High School,Engineering,Programming,Advanced,Reading,<5,Start Business,Medium,6+ months,Machine Learning
+44,Graduate,Science,Business,Intermediate,Reading,20+,Start Business,Free,1-3 months,Mobile App Development
+25,Working Professional,Science,Marketing,Beginner,Video,10-20,Skill Upgrade,Low,3-6 months,Business Analytics
+34,Graduate,Commerce,Marketing,Beginner,Video,<5,Start Business,Premium,1-3 months,Cloud Computing
+23,Graduate,Management,Programming,Intermediate,Video,5-10,Higher Studies,Medium,3-6 months,Python Programming
+23,Undergraduate,Commerce,Programming,Intermediate,Reading,20+,Freelancing,Medium,3-6 months,Python Programming
+41,Working Professional,Science,Business,Intermediate,Practical,5-10,Get Job,Low,1-3 months,Digital Marketing
+29,Working Professional,Science,Cloud,Advanced,Project Based,20+,Start Business,Medium,6+ months,Digital Marketing
+36,Graduate,Engineering,Business,Advanced,Video,20+,Higher Studies,Medium,6+ months,UI/UX Design
+42,High School,Commerce,Cloud,Intermediate,Practical,10-20,Freelancing,Medium,1-3 months,Mobile App Development
+38,Undergraduate,Management,Finance,Advanced,Reading,10-20,Get Job,Premium,6+ months,Cloud Computing
+44,High School,Commerce,Finance,Intermediate,Video,10-20,Higher Studies,Free,3-6 months,UI/UX Design
+44,Graduate,IT,Finance,Beginner,Project Based,10-20,Skill Upgrade,Free,3-6 months,Mobile App Development
+38,Graduate,Science,AI/ML,Beginner,Project Based,5-10,Freelancing,Medium,1-3 months,Digital Marketing
+19,High School,Science,Design,Advanced,Video,20+,Get Job,Medium,3-6 months,Cybersecurity
+37,High School,Commerce,Programming,Advanced,Project Based,5-10,Start Business,Low,1-3 months,Python Programming
+39,High School,Science,Finance,Advanced,Reading,20+,Freelancing,Premium,3-6 months,Data Science
+33,Undergraduate,Commerce,Cybersecurity,Beginner,Project Based,20+,Get Job,Medium,3-6 months,Machine Learning
+36,High School,Management,AI/ML,Intermediate,Project Based,10-20,Skill Upgrade,Premium,1-3 months,Mobile App Development
+25,Working Professional,Arts,AI/ML,Advanced,Practical,20+,Higher Studies,Low,1-3 months,Data Science
+43,Undergraduate,Engineering,Business,Beginner,Video,20+,Skill Upgrade,Low,3-6 months,Data Science
+21,High School,Science,Cloud,Beginner,Video,20+,Higher Studies,Free,1-3 months,UI/UX Design
+30,Undergraduate,Engineering,AI/ML,Intermediate,Project Based,5-10,Freelancing,Free,6+ months,Cybersecurity
+27,High School,Arts,AI/ML,Advanced,Video,<5,Higher Studies,Premium,3-6 months,Finance & Investment
+29,High School,Commerce,Marketing,Advanced,Video,20+,Start Business,Medium,6+ months,Digital Marketing
+26,Undergraduate,Engineering,AI/ML,Advanced,Video,20+,Higher Studies,Premium,3-6 months,Business Analytics
+41,Undergraduate,Management,Marketing,Intermediate,Reading,<5,Get Job,Medium,6+ months,UI/UX Design
+29,Undergraduate,Science,Finance,Beginner,Reading,<5,Skill Upgrade,Medium,6+ months,Cloud Computing
+25,Undergraduate,Management,Cloud,Beginner,Reading,5-10,Higher Studies,Premium,3-6 months,Data Science
+32,Graduate,Engineering,Marketing,Intermediate,Practical,5-10,Freelancing,Medium,6+ months,Machine Learning
+31,Working Professional,IT,Cloud,Intermediate,Practical,<5,Higher Studies,Low,3-6 months,Data Science
+18,Graduate,Management,Design,Advanced,Practical,5-10,Start Business,Premium,1-3 months,Finance & Investment
+32,Undergraduate,Science,Cybersecurity,Intermediate,Practical,<5,Skill Upgrade,Free,3-6 months,Mobile App Development
+39,Working Professional,Commerce,Design,Advanced,Video,20+,Get Job,Medium,1-3 months,Mobile App Development
+19,Undergraduate,Management,Marketing,Advanced,Reading,20+,Skill Upgrade,Medium,6+ months,Python Programming
+43,High School,Commerce,Design,Advanced,Reading,10-20,Skill Upgrade,Low,3-6 months,Web Development
+27,Working Professional,Management,Finance,Intermediate,Project Based,10-20,Get Job,Premium,3-6 months,Business Analytics
+28,Undergraduate,Commerce,Programming,Beginner,Reading,20+,Start Business,Medium,3-6 months,Business Analytics
+24,Working Professional,Commerce,Design,Advanced,Reading,5-10,Freelancing,Medium,1-3 months,Cybersecurity
+44,Graduate,Engineering,Business,Beginner,Video,<5,Higher Studies,Low,1-3 months,Cloud Computing
+33,High School,Commerce,Marketing,Beginner,Project Based,<5,Get Job,Low,3-6 months,Data Science
+20,Undergraduate,Management,Cloud,Beginner,Reading,20+,Freelancing,Medium,1-3 months,Mobile App Development
+26,Undergraduate,Commerce,Cybersecurity,Beginner,Reading,<5,Freelancing,Low,1-3 months,Cloud Computing
+29,Graduate,Science,Marketing,Advanced,Practical,5-10,Start Business,Low,1-3 months,Digital Marketing
+17,Graduate,Commerce,Cloud,Advanced,Video,<5,Start Business,Low,1-3 months,Mobile App Development
+19,Graduate,Engineering,Cybersecurity,Intermediate,Practical,5-10,Get Job,Premium,6+ months,Data Science
+41,Working Professional,IT,Cybersecurity,Beginner,Video,10-20,Freelancing,Free,1-3 months,Python Programming
+21,Graduate,Science,Business,Beginner,Project Based,20+,Start Business,Medium,3-6 months,Cloud Computing
+32,Graduate,Science,Business,Advanced,Practical,20+,Skill Upgrade,Medium,6+ months,Mobile App Development
+29,Undergraduate,Commerce,Programming,Beginner,Practical,5-10,Skill Upgrade,Low,1-3 months,Cloud Computing
+23,Graduate,Commerce,Cloud,Intermediate,Practical,5-10,Higher Studies,Premium,1-3 months,Machine Learning
+40,Undergraduate,Engineering,Programming,Intermediate,Practical,10-20,Skill Upgrade,Low,1-3 months,Web Development
+32,High School,Arts,Cloud,Advanced,Practical,5-10,Freelancing,Premium,1-3 months,Finance & Investment
+27,Graduate,Science,Business,Intermediate,Practical,10-20,Higher Studies,Medium,6+ months,Data Science
+23,Working Professional,Management,AI/ML,Intermediate,Reading,10-20,Higher Studies,Free,1-3 months,Machine Learning
+43,Graduate,Science,Design,Intermediate,Reading,20+,Higher Studies,Free,3-6 months,Graphic Design
+42,Graduate,Management,AI/ML,Intermediate,Reading,5-10,Higher Studies,Free,3-6 months,Cloud Computing
+38,Working Professional,Commerce,AI/ML,Beginner,Project Based,<5,Skill Upgrade,Free,6+ months,Graphic Design
+29,Working Professional,Management,Finance,Advanced,Practical,10-20,Skill Upgrade,Low,6+ months,Cybersecurity
+43,Working Professional,Management,Programming,Advanced,Video,10-20,Get Job,Medium,1-3 months,Cybersecurity
+27,High School,Engineering,Finance,Intermediate,Reading,20+,Get Job,Premium,1-3 months,Cloud Computing
+38,Working Professional,Management,Design,Beginner,Reading,5-10,Freelancing,Free,6+ months,Data Science
+29,Working Professional,Arts,AI/ML,Beginner,Reading,5-10,Skill Upgrade,Free,3-6 months,Data Science
+44,Graduate,Arts,Business,Beginner,Project Based,10-20,Higher Studies,Premium,3-6 months,Finance & Investment
+27,Graduate,Management,Cybersecurity,Intermediate,Project Based,<5,Freelancing,Medium,6+ months,Machine Learning
+44,Working Professional,Management,Business,Advanced,Video,20+,Start Business,Premium,1-3 months,Finance & Investment
+31,High School,Arts,Marketing,Intermediate,Project Based,<5,Start Business,Premium,6+ months,Cybersecurity
+42,Undergraduate,Arts,Cloud,Advanced,Practical,20+,Higher Studies,Medium,6+ months,Graphic Design
+40,Undergraduate,IT,Cybersecurity,Advanced,Project Based,10-20,Get Job,Low,6+ months,UI/UX Design
+31,High School,IT,Marketing,Intermediate,Reading,10-20,Start Business,Premium,3-6 months,Digital Marketing
+24,High School,Arts,Marketing,Advanced,Project Based,10-20,Higher Studies,Low,6+ months,Graphic Design
+18,High School,Science,Design,Beginner,Project Based,5-10,Get Job,Premium,1-3 months,Digital Marketing
+40,High School,Science,Programming,Advanced,Reading,10-20,Skill Upgrade,Premium,6+ months,Business Analytics
+29,High School,Science,Cybersecurity,Advanced,Video,<5,Get Job,Free,3-6 months,Cloud Computing
+42,High School,IT,Cloud,Intermediate,Project Based,5-10,Get Job,Medium,6+ months,Graphic Design
+42,Working Professional,Engineering,Business,Advanced,Video,10-20,Freelancing,Medium,1-3 months,UI/UX Design
+22,Working Professional,Science,Finance,Intermediate,Video,<5,Higher Studies,Low,3-6 months,Graphic Design
+27,Graduate,Science,AI/ML,Intermediate,Project Based,20+,Freelancing,Premium,6+ months,Graphic Design
+44,High School,Engineering,Design,Beginner,Video,<5,Start Business,Low,1-3 months,Finance & Investment
+42,Working Professional,IT,Cloud,Intermediate,Project Based,20+,Get Job,Low,3-6 months,Data Science
+25,Undergraduate,Arts,Marketing,Intermediate,Practical,10-20,Freelancing,Low,3-6 months,Cloud Computing
+36,Graduate,Commerce,Programming,Advanced,Video,<5,Get Job,Low,6+ months,Python Programming
+23,Undergraduate,Science,Design,Intermediate,Video,20+,Get Job,Premium,3-6 months,Mobile App Development
+33,Working Professional,Commerce,Design,Advanced,Video,<5,Start Business,Low,6+ months,UI/UX Design
+36,Working Professional,Engineering,Finance,Beginner,Video,20+,Get Job,Medium,6+ months,Business Analytics
+22,High School,Commerce,Finance,Advanced,Practical,<5,Get Job,Medium,1-3 months,Graphic Design
+37,Working Professional,Management,Cloud,Intermediate,Practical,<5,Higher Studies,Medium,6+ months,Finance & Investment
+38,Graduate,Science,Cybersecurity,Advanced,Project Based,10-20,Get Job,Low,6+ months,Web Development
+24,High School,Management,Design,Advanced,Practical,20+,Get Job,Low,1-3 months,Mobile App Development
+19,Graduate,Management,Business,Beginner,Project Based,20+,Get Job,Low,6+ months,Cloud Computing
+26,Undergraduate,Science,AI/ML,Intermediate,Video,5-10,Higher Studies,Premium,3-6 months,UI/UX Design
+19,Undergraduate,Engineering,Business,Beginner,Project Based,<5,Skill Upgrade,Premium,3-6 months,Cloud Computing
+43,High School,Commerce,Cloud,Advanced,Video,10-20,Freelancing,Medium,3-6 months,Python Programming
+17,Working Professional,Science,AI/ML,Advanced,Practical,20+,Skill Upgrade,Free,1-3 months,UI/UX Design
+36,Graduate,Engineering,Cloud,Intermediate,Video,5-10,Higher Studies,Low,1-3 months,Graphic Design
+24,Graduate,Science,Cybersecurity,Advanced,Practical,20+,Skill Upgrade,Premium,1-3 months,Web Development
+28,Working Professional,Management,Programming,Advanced,Practical,<5,Skill Upgrade,Low,3-6 months,Digital Marketing
+28,Undergraduate,Arts,Design,Advanced,Practical,<5,Higher Studies,Premium,1-3 months,Python Programming
+21,Graduate,IT,Cybersecurity,Beginner,Video,5-10,Get Job,Medium,1-3 months,Cybersecurity
+32,Working Professional,Management,Design,Beginner,Practical,5-10,Higher Studies,Premium,3-6 months,Graphic Design
+23,High School,Arts,Cloud,Beginner,Practical,<5,Start Business,Free,6+ months,Cybersecurity
+23,Working Professional,Engineering,AI/ML,Advanced,Video,20+,Skill Upgrade,Premium,3-6 months,Business Analytics
+30,Working Professional,Commerce,Cybersecurity,Intermediate,Video,<5,Freelancing,Low,6+ months,Digital Marketing
+36,Working Professional,Science,Programming,Beginner,Project Based,10-20,Skill Upgrade,Premium,6+ months,Graphic Design
+35,Graduate,Science,Cloud,Beginner,Video,5-10,Start Business,Premium,1-3 months,Mobile App Development
+40,Undergraduate,Arts,Business,Advanced,Video,5-10,Higher Studies,Low,6+ months,Mobile App Development
+32,Working Professional,Engineering,Programming,Beginner,Reading,5-10,Skill Upgrade,Low,3-6 months,Python Programming
+17,Undergraduate,IT,Programming,Advanced,Practical,20+,Higher Studies,Premium,1-3 months,UI/UX Design
+34,High School,Engineering,AI/ML,Beginner,Reading,5-10,Get Job,Premium,3-6 months,Business Analytics
+34,Graduate,Arts,Marketing,Beginner,Video,<5,Freelancing,Low,6+ months,Digital Marketing
+22,Graduate,Science,Finance,Beginner,Reading,10-20,Get Job,Low,3-6 months,Data Science
+43,Working Professional,Engineering,Marketing,Beginner,Practical,20+,Higher Studies,Low,6+ months,Mobile App Development
+44,Graduate,Science,Marketing,Intermediate,Project Based,5-10,Higher Studies,Premium,3-6 months,Cloud Computing
+30,Graduate,Management,Business,Intermediate,Project Based,20+,Get Job,Premium,1-3 months,Cloud Computing
+28,Working Professional,Engineering,AI/ML,Intermediate,Project Based,<5,Higher Studies,Free,1-3 months,Cloud Computing
+25,Undergraduate,Commerce,Programming,Advanced,Practical,10-20,Higher Studies,Medium,3-6 months,Data Science
+42,Graduate,IT,AI/ML,Beginner,Practical,<5,Freelancing,Free,3-6 months,Mobile App Development
+36,Undergraduate,Science,AI/ML,Intermediate,Video,<5,Skill Upgrade,Premium,3-6 months,Data Science
+44,High School,Engineering,Cybersecurity,Intermediate,Reading,20+,Freelancing,Premium,3-6 months,Graphic Design
+44,Undergraduate,Arts,Cybersecurity,Advanced,Video,5-10,Higher Studies,Low,6+ months,Digital Marketing
+26,Graduate,IT,Marketing,Advanced,Project Based,20+,Higher Studies,Free,6+ months,Digital Marketing
+20,Graduate,Science,AI/ML,Advanced,Project Based,10-20,Freelancing,Premium,3-6 months,Cloud Computing
+17,Undergraduate,Management,Cloud,Advanced,Video,5-10,Start Business,Free,3-6 months,Python Programming
+36,Graduate,Arts,Cybersecurity,Intermediate,Reading,5-10,Freelancing,Low,6+ months,Data Science
+17,Working Professional,Management,Business,Intermediate,Project Based,20+,Higher Studies,Medium,3-6 months,Cybersecurity
+41,Graduate,IT,Marketing,Beginner,Reading,5-10,Get Job,Free,6+ months,Digital Marketing
+44,Working Professional,Management,Cloud,Beginner,Project Based,5-10,Higher Studies,Medium,1-3 months,Mobile App Development
+33,Undergraduate,IT,Business,Advanced,Practical,<5,Start Business,Medium,3-6 months,Mobile App Development
+31,Graduate,IT,Programming,Advanced,Reading,<5,Start Business,Premium,3-6 months,Cloud Computing
+28,Undergraduate,Commerce,Cloud,Advanced,Reading,5-10,Skill Upgrade,Premium,3-6 months,Digital Marketing
+42,Undergraduate,Engineering,Business,Advanced,Reading,10-20,Get Job,Low,6+ months,Python Programming
+43,Undergraduate,IT,Finance,Advanced,Practical,20+,Freelancing,Premium,1-3 months,Python Programming
+20,Undergraduate,Arts,Design,Intermediate,Video,<5,Start Business,Premium,6+ months,Digital Marketing
+37,Undergraduate,Engineering,Business,Beginner,Project Based,<5,Higher Studies,Premium,3-6 months,Finance & Investment
+29,High School,Management,Cloud,Intermediate,Video,<5,Freelancing,Medium,6+ months,Data Science
+25,Undergraduate,Management,Design,Intermediate,Project Based,5-10,Start Business,Premium,3-6 months,Python Programming
+40,Graduate,Engineering,Cloud,Beginner,Practical,20+,Get Job,Free,3-6 months,Cybersecurity
+26,Graduate,Engineering,Design,Advanced,Reading,10-20,Freelancing,Premium,1-3 months,Cybersecurity
+35,Working Professional,IT,Cloud,Intermediate,Reading,<5,Start Business,Premium,6+ months,Digital Marketing
+24,Undergraduate,Management,Marketing,Intermediate,Practical,20+,Start Business,Low,6+ months,Graphic Design
+38,Graduate,Arts,Business,Intermediate,Project Based,10-20,Get Job,Premium,1-3 months,Finance & Investment
+21,Working Professional,Arts,Cybersecurity,Advanced,Video,20+,Skill Upgrade,Medium,6+ months,Graphic Design
+42,Working Professional,Management,Cloud,Beginner,Practical,20+,Skill Upgrade,Medium,3-6 months,Web Development
+29,Graduate,IT,Business,Intermediate,Practical,5-10,Freelancing,Premium,1-3 months,Data Science
+27,Undergraduate,Engineering,Programming,Beginner,Practical,10-20,Freelancing,Premium,3-6 months,Data Science
+44,High School,Management,Cloud,Beginner,Video,20+,Skill Upgrade,Premium,6+ months,Finance & Investment
+39,Working Professional,IT,Finance,Beginner,Project Based,20+,Higher Studies,Free,6+ months,Digital Marketing
+44,High School,Management,Cloud,Intermediate,Reading,5-10,Freelancing,Medium,6+ months,Mobile App Development
+24,Undergraduate,Management,Design,Advanced,Project Based,20+,Skill Upgrade,Low,1-3 months,Mobile App Development
+22,High School,IT,Programming,Intermediate,Reading,10-20,Higher Studies,Free,3-6 months,UI/UX Design
+36,High School,Commerce,Cloud,Beginner,Practical,5-10,Get Job,Premium,1-3 months,Data Science
+39,Working Professional,Arts,Marketing,Intermediate,Project Based,10-20,Higher Studies,Low,3-6 months,Cybersecurity
+21,Undergraduate,IT,Programming,Beginner,Practical,5-10,Higher Studies,Premium,1-3 months,Graphic Design
+30,Working Professional,Management,Marketing,Advanced,Project Based,20+,Get Job,Free,6+ months,Web Development
+44,Undergraduate,Management,Cybersecurity,Advanced,Project Based,5-10,Start Business,Free,6+ months,Web Development
+42,Undergraduate,Arts,Design,Beginner,Reading,10-20,Start Business,Low,3-6 months,Mobile App Development
+23,Working Professional,Science,Programming,Beginner,Reading,20+,Freelancing,Low,1-3 months,Python Programming
+33,Working Professional,IT,Programming,Beginner,Practical,10-20,Higher Studies,Free,6+ months,Business Analytics
+35,Graduate,Management,AI/ML,Advanced,Reading,20+,Get Job,Free,1-3 months,Graphic Design
+35,Working Professional,Engineering,Programming,Intermediate,Video,20+,Freelancing,Free,3-6 months,Data Science
+41,Working Professional,Science,Programming,Intermediate,Reading,10-20,Start Business,Low,3-6 months,Machine Learning
+35,Graduate,Arts,Cybersecurity,Intermediate,Practical,<5,Skill Upgrade,Low,6+ months,Cloud Computing
+44,High School,Science,Business,Advanced,Reading,20+,Get Job,Premium,6+ months,Python Programming
+22,High School,Arts,Marketing,Beginner,Practical,20+,Skill Upgrade,Medium,1-3 months,UI/UX Design
+38,Undergraduate,IT,Finance,Beginner,Video,20+,Higher Studies,Premium,3-6 months,Mobile App Development
+34,Undergraduate,IT,Finance,Advanced,Project Based,20+,Start Business,Free,6+ months,Business Analytics
+23,Working Professional,IT,Cloud,Intermediate,Reading,<5,Skill Upgrade,Premium,1-3 months,Digital Marketing
+40,Undergraduate,Arts,Cloud,Advanced,Video,5-10,Higher Studies,Premium,1-3 months,Cybersecurity
+21,High School,Engineering,Marketing,Intermediate,Video,5-10,Freelancing,Low,3-6 months,Graphic Design
+29,High School,Arts,Marketing,Beginner,Practical,10-20,Freelancing,Medium,6+ months,Graphic Design
+36,Working Professional,Arts,Cloud,Intermediate,Reading,5-10,Skill Upgrade,Medium,1-3 months,Data Science
+19,Working Professional,Science,Marketing,Advanced,Reading,10-20,Skill Upgrade,Premium,6+ months,UI/UX Design
+28,High School,IT,Programming,Advanced,Video,20+,Freelancing,Low,1-3 months,Mobile App Development
+21,High School,Management,Business,Advanced,Practical,10-20,Higher Studies,Low,1-3 months,Python Programming
+30,Undergraduate,Management,Business,Intermediate,Project Based,10-20,Skill Upgrade,Medium,6+ months,Cybersecurity
+44,Graduate,Engineering,Finance,Beginner,Practical,20+,Skill Upgrade,Premium,1-3 months,Graphic Design
+37,Working Professional,Commerce,Cybersecurity,Intermediate,Practical,10-20,Freelancing,Medium,3-6 months,Graphic Design
+42,High School,Management,Marketing,Advanced,Practical,5-10,Freelancing,Low,6+ months,Graphic Design
+27,High School,Engineering,Cybersecurity,Beginner,Video,<5,Skill Upgrade,Free,1-3 months,Cloud Computing
+41,Working Professional,Management,Programming,Advanced,Video,5-10,Skill Upgrade,Premium,6+ months,Cloud Computing
+21,Working Professional,Commerce,Business,Advanced,Reading,10-20,Start Business,Medium,1-3 months,Machine Learning
+17,High School,Commerce,Design,Advanced,Reading,<5,Start Business,Medium,1-3 months,Business Analytics
+21,Undergraduate,IT,Cloud,Advanced,Practical,5-10,Start Business,Low,3-6 months,Machine Learning
+42,Working Professional,Science,Design,Advanced,Practical,5-10,Get Job,Low,1-3 months,Cloud Computing
+35,Undergraduate,Management,Business,Advanced,Video,20+,Get Job,Premium,1-3 months,UI/UX Design
+43,High School,Arts,Cloud,Intermediate,Project Based,5-10,Get Job,Low,6+ months,Finance & Investment
+44,Undergraduate,Commerce,Business,Intermediate,Practical,10-20,Skill Upgrade,Premium,3-6 months,Web Development
+18,Undergraduate,Management,Finance,Advanced,Practical,20+,Freelancing,Premium,6+ months,Finance & Investment
+32,Graduate,Arts,Design,Beginner,Project Based,<5,Get Job,Low,6+ months,Web Development
+26,Working Professional,Management,Business,Advanced,Reading,5-10,Freelancing,Low,1-3 months,Machine Learning
+30,Working Professional,Commerce,Programming,Advanced,Practical,10-20,Get Job,Medium,3-6 months,Digital Marketing
+37,High School,Arts,AI/ML,Advanced,Video,10-20,Skill Upgrade,Medium,6+ months,Python Programming
+37,Undergraduate,Engineering,Cloud,Intermediate,Video,<5,Start Business,Low,1-3 months,Cloud Computing
+32,High School,Arts,Business,Beginner,Video,20+,Start Business,Premium,3-6 months,Cybersecurity
+22,Undergraduate,Science,Marketing,Intermediate,Practical,5-10,Skill Upgrade,Free,1-3 months,Web Development
+17,High School,IT,Business,Intermediate,Practical,<5,Start Business,Premium,3-6 months,Web Development
+37,High School,Engineering,Marketing,Intermediate,Video,20+,Skill Upgrade,Low,3-6 months,Cloud Computing
+32,Undergraduate,Management,Programming,Beginner,Reading,20+,Higher Studies,Free,1-3 months,Machine Learning
+40,Graduate,IT,AI/ML,Intermediate,Reading,20+,Get Job,Premium,1-3 months,Machine Learning
+24,Graduate,Engineering,Programming,Beginner,Project Based,5-10,Start Business,Medium,1-3 months,Web Development
+21,Graduate,Commerce,Finance,Beginner,Reading,5-10,Freelancing,Premium,3-6 months,Graphic Design
+18,Undergraduate,Arts,Cloud,Intermediate,Practical,<5,Skill Upgrade,Low,6+ months,Cloud Computing
+37,High School,Science,Cloud,Advanced,Video,5-10,Higher Studies,Premium,3-6 months,Web Development
+26,Working Professional,Commerce,Design,Advanced,Practical,10-20,Freelancing,Low,3-6 months,Finance & Investment
+22,Undergraduate,Arts,Cloud,Beginner,Project Based,10-20,Skill Upgrade,Premium,6+ months,Digital Marketing
+22,Undergraduate,Arts,Programming,Intermediate,Project Based,<5,Get Job,Free,6+ months,Digital Marketing
+40,High School,IT,Design,Beginner,Reading,10-20,Skill Upgrade,Medium,1-3 months,Machine Learning
+44,Undergraduate,IT,Finance,Advanced,Video,10-20,Higher Studies,Free,3-6 months,Digital Marketing
+32,Graduate,Science,Cybersecurity,Intermediate,Project Based,5-10,Higher Studies,Free,3-6 months,Data Science
+20,High School,Science,Programming,Advanced,Project Based,10-20,Skill Upgrade,Medium,1-3 months,Graphic Design
+31,Undergraduate,Management,Cloud,Advanced,Video,10-20,Higher Studies,Low,1-3 months,Digital Marketing
+26,Working Professional,Arts,Finance,Advanced,Video,20+,Higher Studies,Low,3-6 months,UI/UX Design
+27,Undergraduate,Management,Programming,Intermediate,Reading,20+,Get Job,Premium,3-6 months,Machine Learning
+32,Working Professional,IT,AI/ML,Intermediate,Reading,<5,Get Job,Medium,6+ months,Cybersecurity
+23,Undergraduate,Engineering,Design,Advanced,Project Based,20+,Freelancing,Medium,6+ months,Web Development
+21,High School,Management,Finance,Advanced,Video,10-20,Freelancing,Premium,1-3 months,Business Analytics
+21,High School,Commerce,Design,Advanced,Project Based,<5,Freelancing,Free,6+ months,Machine Learning
+29,Working Professional,IT,Cybersecurity,Intermediate,Reading,20+,Higher Studies,Premium,3-6 months,Mobile App Development
+33,Undergraduate,Commerce,AI/ML,Beginner,Reading,<5,Higher Studies,Premium,1-3 months,UI/UX Design
+35,Undergraduate,Management,Marketing,Intermediate,Video,10-20,Freelancing,Premium,6+ months,Finance & Investment
+23,Graduate,Management,Cybersecurity,Intermediate,Project Based,20+,Freelancing,Premium,6+ months,Business Analytics
+38,Undergraduate,Commerce,Marketing,Intermediate,Project Based,10-20,Skill Upgrade,Low,1-3 months,Business Analytics
+25,High School,Arts,Design,Advanced,Practical,20+,Get Job,Low,3-6 months,Cloud Computing
+40,Working Professional,Engineering,Finance,Advanced,Practical,10-20,Freelancing,Free,3-6 months,Web Development
+35,Graduate,IT,AI/ML,Beginner,Practical,<5,Freelancing,Premium,6+ months,Graphic Design
+40,High School,Management,Marketing,Advanced,Practical,20+,Freelancing,Premium,1-3 months,Web Development
+20,High School,Management,Design,Advanced,Practical,<5,Freelancing,Medium,1-3 months,Machine Learning
+38,Graduate,Management,Marketing,Beginner,Project Based,20+,Skill Upgrade,Medium,6+ months,Mobile App Development
+25,Working Professional,Commerce,Marketing,Intermediate,Project Based,10-20,Skill Upgrade,Free,1-3 months,Digital Marketing
